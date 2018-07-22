@@ -5,15 +5,15 @@ var validUrl = require('valid-url');
 
 
 //Initialization
-var client_id='adcb6ff4-b0ab-4b09-960c-b36efb1404a3';
-var client_secret='A69EWJOS86Y4tFFBieMD7TG9NtCYKnZW24iAZnmvA90=';
-var tenant_id='263f1b53-bafb-442a-8d18-78a138d81a60';
-var subs_id='8ab15bba-509e-4b43-8c3d-84de9f4e3e06';
-var nwatcher_name='NetworkWatcher_eastus';
-var src_rsc_id='/subscriptions/8ab15bba-509e-4b43-8c3d-84de9f4e3e06/resourceGroups/myresource/providers/Microsoft.Compute/virtualMachines/vm1';
-var src_port= 443;
-var dest_addr='https://login.microsoftonline.com/';
-var dest_port=0;
+var client_id='';
+var client_secret='';
+var tenant_id='';
+var subs_id='';
+var nwatcher_name='';
+var src_rsc_id='';
+var src_port= ;
+var dest_addr='';
+var dest_port=;
 
 
 
